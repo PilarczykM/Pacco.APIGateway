@@ -10,11 +10,6 @@ Pacco is an open source project using microservices architecture written in .NET
 
 Pacco.APIGateway is an API Gateway built with [Ntrada](https://github.com/snatch-dev/Ntrada) being part of [Pacco](https://github.com/devmentors/Pacco) solution.
 
-|Branch             |Build status                                                  
-|-------------------|-----------------------------------------------------
-|master             |[![master branch build status](https://api.travis-ci.org/devmentors/Pacco.APIGateway.svg?branch=master)](https://travis-ci.org/devmentors/Pacco.APIGateway)
-|develop            |[![develop branch build status](https://api.travis-ci.org/devmentors/Pacco.APIGateway.svg?branch=develop)](https://travis-ci.org/devmentors/Pacco.APIGateway/branches)
-
 **How to start the application?**
 ----------------
 
